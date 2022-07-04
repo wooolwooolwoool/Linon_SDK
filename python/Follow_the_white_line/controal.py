@@ -1,5 +1,5 @@
 import cv2, json
-from utils import socket_utils
+import socket_utils
 import numpy as np
 import threading
 
