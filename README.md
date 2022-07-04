@@ -24,7 +24,7 @@ The communication method is defined as follows for ease of use.
 3. Install Package.
    1. Open Project
    2. Assets -> Import package -> custom package
-   3. Select /unity/package/AICarSet.unitypackage and import.
+   3. Select /unity/package/AICarSet.unitypackage and Base.unitypackage, and import them.
 4. Create Rode (Option)
    1. Install EasyRoads3D https://assetstore.unity.com/packages/tools/terrain/easyroads3d-pro-v3-469?locale=ja-JP
    2. Create Road
